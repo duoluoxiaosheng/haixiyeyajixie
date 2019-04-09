@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3bcb1102-c3b3-46e9-a717-e93119496647/deploy-status)](https://app.netlify.com/sites/haixiyeyajixie/deploys)  
+
 # Hux Blog
 
 ### [View Live Hux Blog &rarr;](https://huangxuan.me)
